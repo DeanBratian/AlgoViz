@@ -1,0 +1,3 @@
+- AlgoVizEngine class
+- define states for app 
+- define menu, configuration, canvas and statistics
